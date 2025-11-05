@@ -6,7 +6,7 @@
 
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@alexjohnson.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexjohnson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isuru-subash)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexjohnson.dev)
 
 ---
@@ -98,16 +98,6 @@ Cross-platform mobile application for task management with offline capabilities.
 ## 🎓 Education & Certifications
 
 - **Bachelor of Science in Computer Science** - Stanford University (2014-2018)
-
----
-
-## 📫 Let's Connect
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
-
-- **Email:** [contact@alexjohnson.dev](mailto:contact@alexjohnson.dev)
-- **LinkedIn:** [Alex Johnson](https://linkedin.com/in/alexjohnson)
-- **Facebook:** [alexjohnson.dev](https://alexjohnson.dev)
 
 ---
 
