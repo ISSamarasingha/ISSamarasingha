@@ -1,14 +1,11 @@
-# 👋 Alex Johnson
-
-**`alexjohnson-dev`**
+# 👋 Isuru Subash
 
 **Full Stack Developer | Open Source Enthusiast | Tech Blogger**
 
-📍 San Francisco, CA  
-👥 25 followers • ❤️ 12 following
+📍 Kahawaththa, Sri Lanka  
+
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@alexjohnson.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alexjohnson_dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexjohnson)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexjohnson.dev)
 
