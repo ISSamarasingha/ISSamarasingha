@@ -1,11 +1,11 @@
 # 👋 Isuru Subash
 
-**Full Stack Developer | Open Source Enthusiast | Tech Blogger**
+**Full Stack Developer | Tech Enthusiast | TRepair Specialist **
 
 📍 Kahawaththa, Sri Lanka  
 
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@alexjohnson.dev)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subash.i.samarasingha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isuru-subash)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexjohnson.dev)
 
