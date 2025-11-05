@@ -98,8 +98,6 @@ Cross-platform mobile application for task management with offline capabilities.
 ## 🎓 Education & Certifications
 
 - **Bachelor of Science in Computer Science** - Stanford University (2014-2018)
-- **AWS Certified Solutions Architect** - Amazon Web Services (2020)
-- **Google Cloud Professional Developer** - Google Cloud (2021)
 
 ---
 
@@ -109,20 +107,7 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 
 - **Email:** [contact@alexjohnson.dev](mailto:contact@alexjohnson.dev)
 - **LinkedIn:** [Alex Johnson](https://linkedin.com/in/alexjohnson)
-- **Twitter:** [@alexjohnson_dev](https://twitter.com/alexjohnson_dev)
-- **Portfolio:** [alexjohnson.dev](https://alexjohnson.dev)
-
----
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR #42 in [alexjohnson-dev/ecommerce-platform](https://github.com/alexjohnson-dev/ecommerce-platform)
-2. 🐛 Fixed authentication bug in [alexjohnson-dev/task-manager](https://github.com/alexjohnson-dev/task-manager)
-3. 💬 Commented on issue #15 in [open-source-project/api](https://github.com/open-source-project/api)
-4. 🚀 Released v1.2.0 of [alexjohnson-dev/data-dashboard](https://github.com/alexjohnson-dev/data-dashboard)
-5. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-<!--END_SECTION:activity-->
+- **Facebook:** [alexjohnson.dev](https://alexjohnson.dev)
 
 ---
 
