@@ -1,6 +1,6 @@
 # 👋 Isuru Subash
 
-**Full Stack Developer | Tech Enthusiast | TRepair Specialist **
+**Full Stack Developer | Tech Enthusiast | Repair Specialist **
 
 📍 Kahawaththa, Sri Lanka  
 
