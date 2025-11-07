@@ -1,4 +1,4 @@
-# 👋 Isuru Subash
+# 👋 Isuru Subash Samarasingha
 
 **Web Developer | Tech Enthusiast | Repair Specialist **
 
