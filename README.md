@@ -1,21 +1,20 @@
 # 👋 Isuru Subash
 
-**Full Stack Developer | Tech Enthusiast | Repair Specialist **
+**Web Developer | Tech Enthusiast | Repair Specialist **
 
 📍 Kahawaththa, Sri Lanka  
 
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subash.i.samarasingha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isuru-subash)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexjohnson.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate software engineer with over 5 years of experience building scalable web applications. I love working with modern JavaScript frameworks and have a keen interest in cloud technologies and DevOps practices.
-
-When I'm not coding, I enjoy contributing to open source projects, writing technical articles, and mentoring aspiring developers.
+I'm a passionate software engineer graduate building scalable web applications. I love working with modern frameworks and have a keen interest in cloud technologies and DevOps practices.
+When I'm not coding, I enjoy mobile & pc repairing and seeking knowledge.
 
 ---
 
@@ -52,7 +51,7 @@ When I'm not coding, I enjoy contributing to open source projects, writing techn
 ### 🛒 E-Commerce Platform
 A full-stack e-commerce solution with React frontend, Node.js backend, and PostgreSQL database.
 
-**Tech Stack:** `React` `Node.js` `PostgreSQL` `Stripe API`
+**Tech Stack:** `Laravel` `MySQL`
 
 [![View Code](https://img.shields.io/badge/🔗_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/alexjohnson-dev/ecommerce-platform)
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://ecommerce-demo.vercel.app)
