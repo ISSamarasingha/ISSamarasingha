@@ -92,7 +92,7 @@ Cross-platform mobile application for task management with offline capabilities.
 
 ## 🎓 Education & Certifications
 
-- **Bachelor of Science in Computer Science** - Stanford University (2014-2018)
+- **BSc (Hons) in Software Engineering** - Birmingham City University (2021-2025)
 
 ---
 
