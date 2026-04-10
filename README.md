@@ -52,8 +52,7 @@ This project is an Inventory Management ERP system designed to efficiently track
 
 **Tech Stack:** `Laravel` `BootStrap` `MySQL`
 
-[![View Code](https://img.shields.io/badge/🔗_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/alexjohnson-dev/ecommerce-platform)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://ecommerce-demo.vercel.app)
+[![View Code](https://img.shields.io/badge/🔗_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ISSamarasingha/erp.git)
 
 ---
 
@@ -63,7 +62,6 @@ This project is a UI design for a mobile Retail shop. It features a modern dark 
 **Tech Stack:** `Html` `BootStrap` `JavaScript`
 
 [![View Code](https://img.shields.io/badge/🔗_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/alexjohnson-dev/data-dashboard)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://data-dashboard-demo.netlify.app)
 
 ---
 
@@ -72,8 +70,7 @@ This is a web application designed for a Drug Addiction Rehabilitation Center to
 
 **Tech Stack:** `Laravel` `BootStrap` `MySQL`
 
-[![View Code](https://img.shields.io/badge/🔗_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/alexjohnson-dev/task-manager-app)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Expo-000020?style=for-the-badge&logo=expo)](https://expo.dev/@alexjohnson/task-manager)
+[![View Code](https://img.shields.io/badge/🔗_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ISSamarasingha/rehab-web-app.git)
 
 ---
 
