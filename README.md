@@ -61,7 +61,7 @@ This project is a UI design for a mobile Retail shop. It features a modern dark 
 
 **Tech Stack:** `Html` `BootStrap` `JavaScript`
 
-[![View Code](https://img.shields.io/badge/🔗_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/alexjohnson-dev/data-dashboard)
+[![View Code](https://img.shields.io/badge/🔗_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ISSamarasingha/mobile-shop-dark-ui.git)
 
 ---
 
