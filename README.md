@@ -1,6 +1,6 @@
 # 👋 Isuru Subash Samarasingha
 
-**Web Developer | Tech Enthusiast | Repair Specialist **
+**Web Developer | Tech & Repair Enthusiast**
 
 📍 Kahawaththa, Sri Lanka  
 
@@ -29,7 +29,8 @@ When I'm not coding, I enjoy mobile & pc repairing and seeking knowledge.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
 
 ### Backend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+
+<img src="https://cdn.simpleicons.org/laravel" alt="Laravel" width="40" height="40">
 
 ### Mobile App Development
 
@@ -46,30 +47,30 @@ When I'm not coding, I enjoy mobile & pc repairing and seeking knowledge.
 
 ## ⭐ Featured Projects
 
-### 🛒 E-Commerce Platform
-A full-stack e-commerce solution with React frontend, Node.js backend, and PostgreSQL database.
+### 🛒 ERP Solution
+This project is an Inventory Management ERP system designed to efficiently track and manage stock, products, and warehouse operations. It helps streamline inventory processes, reduce manual errors, and provide real-time visibility of stock levels for better decision-making.
 
-**Tech Stack:** `Laravel` `MySQL`
+**Tech Stack:** `Laravel` `BootStrap` `MySQL`
 
 [![View Code](https://img.shields.io/badge/🔗_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/alexjohnson-dev/ecommerce-platform)
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://ecommerce-demo.vercel.app)
 
 ---
 
-### 📊 Data Visualization Dashboard
-Interactive dashboard for visualizing complex datasets with real-time updates.
+### 📊 Mobile Shop UI
+This project is a UI design for a mobile Retail shop. It features a modern dark theme and focuses on providing a clean, intuitive interface for browsing and managing mobile products.
 
-**Tech Stack:** `D3.js` `Vue.js` `Express` `MongoDB`
+**Tech Stack:** `Html` `BootStrap` `JavaScript`
 
 [![View Code](https://img.shields.io/badge/🔗_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/alexjohnson-dev/data-dashboard)
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://data-dashboard-demo.netlify.app)
 
 ---
 
-### 📱 Task Management App
-Cross-platform mobile application for task management with offline capabilities.
+### 📱 Web Application for a Drug Addict Rehabilitation Center
+This is a web application designed for a Drug Addiction Rehabilitation Center to manage patient records and staff administration efficiently. It supports storing and tracking patient details, treatment history, and progress, along with managing staff records including leave applications and related HR activities. The system improves organization, transparency, and workflow within the rehabilitation center.
 
-**Tech Stack:** `React Native` `Firebase` `Redux`
+**Tech Stack:** `Laravel` `BootStrap` `MySQL`
 
 [![View Code](https://img.shields.io/badge/🔗_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/alexjohnson-dev/task-manager-app)
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Expo-000020?style=for-the-badge&logo=expo)](https://expo.dev/@alexjohnson/task-manager)
@@ -78,29 +79,21 @@ Cross-platform mobile application for task management with offline capabilities.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Isuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISSamarasingha&show_icons=true&theme=default&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ISSamarasingha&layout=compact&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ISSamarasingha&theme=default)
-
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ISSamarasingha&theme=default" />
+</p>
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **BSc (Hons) in Software Engineering** - Birmingham City University (2021-2025)
+ **BSc (Hons) in Software Engineering** - Birmingham City University (2021-2025)
 
 ---
 
 <div align="center">
 
-### ⚡️ **Fun Fact:** I drink more coffee than code I write! ☕
-
-![Profile Views](https://komarev.com/ghpvc/?username=alexjohnson-dev&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ISSamarasingha&color=blue&style=flat-square)
 
 **Thank you for visiting my profile! Have a great day!** ✨
 
