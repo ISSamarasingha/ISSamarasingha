@@ -18,6 +18,12 @@ When I'm not coding, I enjoy mobile & pc repairing and seeking knowledge.
 
 ---
 
+## 🎓 Education & Certifications
+
+ **BSc (Hons) in Software Engineering** - Birmingham City University (2021-2025)
+
+---
+
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
@@ -82,11 +88,7 @@ This is a web application designed for a Drug Addiction Rehabilitation Center to
 
 ---
 
-## 🎓 Education & Certifications
 
- **BSc (Hons) in Software Engineering** - Birmingham City University (2021-2025)
-
----
 
 <div align="center">
 
