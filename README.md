@@ -80,11 +80,11 @@ Cross-platform mobile application for task management with offline capabilities.
 
 <div align="center">
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexjohnson-dev&show_icons=true&theme=default&hide_title=true)
+![Isuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISSamarasingha&show_icons=true&theme=default&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjohnson-dev&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ISSamarasingha&layout=compact&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexjohnson-dev&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ISSamarasingha&theme=default)
 
 </div>
 
